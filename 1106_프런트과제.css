@@ -12,6 +12,10 @@ body{
     height: 1700px;
     grid-template-rows: 0.9fr 0.6fr 12fr 2fr 2fr 6fr;
 }
+#right>a{
+    text-decoration: none;
+    color: black;
+}
 .header{
     position: sticky;
     width: 100%;
